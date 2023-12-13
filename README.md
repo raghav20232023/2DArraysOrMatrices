@@ -1,4 +1,4 @@
-![image](https://github.com/raghav20232023/2DArraysOrMatrices/assets/153320363/bdc1fee9-ecb3-4f73-bf5b-4610d438a13a)# 2DArraysOrMatrices
+# 2DArraysOrMatrices
 
 **Description :**
 
